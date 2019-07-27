@@ -1,0 +1,23 @@
+
+
+
+.header{
+  margin-top: 20%;
+  text-align: center;
+
+}
+.title{
+  font-size: 7em;
+
+  font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+
+}
+.finder{
+  font-weight:lighter;
+}
+
+.search{
+  margin: 0 auto;
+  width: 50%;
+}
